@@ -16,6 +16,7 @@
 ![](https://img.shields.io/badge/code-Nginx-7a9ad2)
 ![](https://img.shields.io/badge/code-MongoDB-7a9ad2)
 ![](https://img.shields.io/badge/code-Figma-7a9ad2)
+![](https://gpvc.arturio.dev/bmstustudent)
 
 ## :mortar_board: My projects in praktikum.yandex
 
