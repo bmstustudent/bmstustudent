@@ -23,7 +23,7 @@
 1.  [How to learn](https://bmstustudent.github.io/how-to-learn/)
 2.  [Russian Travel](https://bmstustudent.github.io/russian-travel/)
 3.  [Mesto](https://bmstustudent.github.io/mesto/index.html)
-4.  [Movies Explorer](https://movies-explorer.ru)
+4.  [Movies Explorer](https://movies-project.ru/)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/bmstustudent/bmstustudent">
