@@ -20,6 +20,11 @@
 
 ## :mortar_board: My projects in praktikum.yandex
 
+1.  [How to learn](https://bmstustudent.github.io/how-to-learn/)
+2.  [Russian Travel](https://bmstustudent.github.io/russian-travel/)
+3.  [Mesto](https://bmstustudent.github.io/mesto/index.html)
+4.  [Movies Explorer](https://movies-explorer.ru)
+
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/bmstustudent/bmstustudent">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmstustudent&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
