@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-# My name is Pavel Shults and I'm a web-developer. I'm from Russia, living in Moscow. You can find me on LinkedIn.
+## My name is Pavel Shults and I'm a web-developer. I'm from Russia, living in Moscow. You can find me on LinkedIn.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -16,6 +16,10 @@
 ![](https://img.shields.io/badge/code-Nginx-2bbc8a)
 ![](https://img.shields.io/badge/code-MongoDB-2bbc8a)
 ![](https://img.shields.io/badge/code-Figma-2bbc8a)
+
+## :mortar_board: My projects in praktikum.yandex
+
+
 
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bmstustudent)](https://github.com/bmstustudent/github-readme-stats) -->
