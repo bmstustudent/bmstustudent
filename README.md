@@ -1,4 +1,4 @@
-[![me](https://github.com/bmstustudent/bmstustudent/blob/main/me-blue.jpg)](https://www.profile-shulz.ru/)
+[![me](https://github.com/bmstustudent/bmstustudent/blob/main/me-blue.jpg)](https://profile-shulz.online/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
